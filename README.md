@@ -15,7 +15,7 @@ Briakou, E., Luo, J., Cherry, C., & Freitag, M. (2024, November). Translating st
 <https://ntradumatica.uab.cat/about>
 démonstration et litératie numérique:
 
-A website for NMT literacy : you need a google account
+A website for NMT literacy : you need Google account
 <https://ntradumatica.uab.cat/auth/google>
 
 The free book as deliverable for the project: 
@@ -30,9 +30,14 @@ Using RAG for translation : <[Google's NotebookLM](https://notebooklm.google.com
 ** Using Google Collab notebooks for applications **
 
 
-Using OpenAI for translation (speech to text)
+Using OpenAI for translation (speech to text): Whisper4translation.ipynb
 
-Translating and improving translations with Fine-tuning
+(ipynb: interactive python notebook, Jupyter notebooks usable in Google's Colab)
+
+
+
+September : 
+Translating and improving translations with Fine-tuning in our joint chapter
 
 
 
