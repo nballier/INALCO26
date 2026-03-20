@@ -6,6 +6,8 @@ Links for neural machine translations for the March 20th workshop at INALCO
 
 * Pascale 's session on Compare AI <https://comparia.beta.gouv.fr/>
 
+* FIT position paper <https://github.com/nballier/INALCO26/blob/main/EUniWell_Inalco_FIT_Extrait_IMP.pdf>
+
 
 * More on Tokenisation : OpenAI on-line page for Tokenisation <https://platform.openai.com/tokenizer>
 
