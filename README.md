@@ -4,6 +4,9 @@
 Links for neural machine translations for the March 20th workshop at INALCO
 
 
+* Pascale 's session on Compare AI <https://comparia.beta.gouv.fr/>
+
+
 * Testing SLMs Small Language Models with LM Studio : <https://lmstudio.ai/>
 * 
 
@@ -37,7 +40,7 @@ Using OpenAI for translation (speech to text): Whisper4translation.ipynb
 
 
 September : 
-Translating and improving translations with Fine-tuning in our joint chapter
+Translating and improving translations with Fine-tuning in our joint chapter to be published at the end of this year as a result of the LT-lider project , see for example the set of interviews <[MT professional interviews](https://lt-lider.eu/interviews-general/)>
 
 
 
