@@ -7,6 +7,8 @@ Links for neural machine translations for the March 20th workshop at INALCO
 * Pascale 's session on Compare AI <https://comparia.beta.gouv.fr/>
 
 
+* More on Tokenisation : OpenAI on-line page for Tokenisation <https://platform.openai.com/tokenizer>
+
 * Testing SLMs Small Language Models with LM Studio : <https://lmstudio.ai/>
 * 
 
