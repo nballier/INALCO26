@@ -24,16 +24,16 @@ Briakou, E., Luo, J., Cherry, C., & Freitag, M. (2024, November). Translating st
 *  From the ERASMUSPLUS MUT_NMT Project (Erasmus Plus)
 <https://ntradumatica.uab.cat/about>
 
-A website for NMT literacy : you need a Google account to explore models
+A website for NMT literacy: you need a Google account to explore models
 <https://ntradumatica.uab.cat/auth/google>
 
-The free book as deliverable for the project: 
+The free book as a deliverable for the project: 
 Kenny, D. (Ed.). (2022). _Machine translation for everyone_. Lang Sci Press.
 <https://langsci-press.org/catalog/book/342>
 
 * Using RAG for translation : <[Google's NotebookLM](https://notebooklm.google.com/?hl=en)>
   Upload a relevant text for your translation as a source (eg., _Pride and Prejudice_)
-  <https://www.gutenberg.org/files/1342/1342-0.txt> , and use NotebookLM to translate your text adopting    the same textual fetaures. 
+  <https://www.gutenberg.org/files/1342/1342-0.txt> , and use NotebookLM to translate your text, adopting the same textual features. 
 
 ** Using Google Collab notebooks for applications  (AI lteracy: using a jupyter notebook) **
 
@@ -44,7 +44,7 @@ Using OpenAI for translation (speech to text): Whisper4translation.ipynb
 
 
 September : 
-Translating and improving translations with Fine-tuning in our joint chapter to be published at the end of this year as a result of the LT-lider project , see for example the set of interviews <[MT professional interviews](https://lt-lider.eu/interviews-general/)>
+Translating and improving translations with Fine-tuning in our joint chapter to be published at the end of this year as a result of the LT-lider project, see for example the set of interviews <[MT professional interviews](https://lt-lider.eu/interviews-general/)>
 
 
 
